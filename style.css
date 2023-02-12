@@ -1,0 +1,71 @@
+body {
+    font-family: 'futura',monospace, sans-serif;
+    color: white;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 60%;
+    margin: 2% auto 5.5%;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 18px;
+    padding: 4% 5% 7%;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(52, 240, 0);
+    text-align: center;
+    padding: 10px 0px;
+}
+
+#logo {
+    width: 24%;
+}
+
+#title {
+    display: block;
+    color: rgb(52, 240, 0);
+    font-size: 25px;
+    margin: 3px 0px;
+}
+
+.item {
+    margin-top: 22px;
+}
+
+.monopattino {
+    font-size: 22px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.address {
+    display: block;
+}
+
+#bar_gino {
+    height: 25px;
+    background-color: rgb(235, 184, 88);
+    border-radius: 4px;
+    width: 33%;
+}
+
+#bar_mike {
+    height: 25px;
+    background-color: rgb(79, 197, 36);
+    border-radius: 4px;
+    width: 62%;
+}
+
+#bar_fede {
+    height: 25px;
+    background-color: rgb(215, 89, 58);
+    border-radius: 4px;
+    width: 17%;
+}
